@@ -1,0 +1,7 @@
+linters:
+  golint:
+    fixer: true
+  rubocop:
+    fixer: true
+fixers:
+  enable: true
